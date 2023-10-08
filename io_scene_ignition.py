@@ -1,7 +1,7 @@
 """
 This is a Blender plugin that adds an importer for Ignition track meshes.
 
-Texture loading does not currently work (it kind loads them, but doesn't apply them.
+Texture loading does not currently work (it kinda loads them, but doesn't apply them).
 
 Patches welcome!
 """
